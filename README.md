@@ -3,3 +3,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $, and
 Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
 and idk where tf the errors are from, it happens when i do runClient
 (im not that good at coding)
+oh yeah and this is minecraft mod (forge)
